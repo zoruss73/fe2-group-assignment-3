@@ -65,7 +65,7 @@ export default function Register() {
     return (
         <div className="flex flex-col lg:flex-row h-screen w-full overflow-hidden">
             {/* Form Section */}
-            <div className="w-full lg:w-1/3 flex-1 lg:flex-none flex flex-col justify-center px-6 sm:px-10 py-10 bg-slate-900 shadow-2xl z-10 overflow-y-auto">
+            <div className="w-full lg:w-1/3 flex-1 lg:flex-none flex flex-col justify-start px-6 sm:px-10 py-10 bg-slate-900 shadow-2xl z-10 overflow-y-auto">
                 <h1 className="text-2xl sm:text-3xl font-bold mb-2 text-white font-montserrat">Create Account</h1>
                 <p className="text-slate-400 mb-8 font-montserrat text-sm">Join us and get started</p>
                 <form className="flex flex-col gap-4 sm:gap-5" onSubmit={handleSubmit(onSubmit)}>
