@@ -1,4 +1,4 @@
-import { data, Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 import { useEffect, useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"
@@ -14,6 +14,7 @@ export default function Login() {
         setError,
         formState: { errors }
     } = useForm()
+    const navigate = useNavigate()
     const [showPassword, setShowPassword] = useState(false)
     const onSubmit = ( data ) => {
         const users = JSON.parse(localStorage.getItem("users")) || []
@@ -29,6 +30,7 @@ export default function Login() {
         }
         localStorage.setItem("loggedInUser", JSON.stringify(user));
         toast.success("Login successful! Welcome back, " + user.firstName + "!");
+        navigate("/students");
     };
 
     useEffect(() => {
