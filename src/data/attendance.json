@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "studentId": "260001",
+    "date": "2026-03-03",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 2,
+    "studentId": "260002",
+    "date": "2026-03-03",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 3,
+    "studentId": "260003",
+    "date": "2026-03-03",
+    "status": "Late",
+    "remarks": "Arrived 15 minutes late"
+  },
+  {
+    "id": 4,
+    "studentId": "260004",
+    "date": "2026-03-03",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": 5,
+    "studentId": "260005",
+    "date": "2026-03-03",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 6,
+    "studentId": "260006",
+    "date": "2026-03-03",
+    "status": "Excused",
+    "remarks": "Medical appointment"
+  },
+  {
+    "id": 7,
+    "studentId": "260007",
+    "date": "2026-03-04",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 8,
+    "studentId": "260008",
+    "date": "2026-03-04",
+    "status": "Absent",
+    "remarks": "No prior notice"
+  },
+  {
+    "id": 9,
+    "studentId": "260009",
+    "date": "2026-03-04",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 10,
+    "studentId": "260010",
+    "date": "2026-03-04",
+    "status": "Late",
+    "remarks": "Traffic delay"
+  },
+  {
+    "id": 11,
+    "studentId": "260011",
+    "date": "2026-03-05",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 12,
+    "studentId": "260012",
+    "date": "2026-03-05",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 13,
+    "studentId": "260001",
+    "date": "2026-03-05",
+    "status": "Excused",
+    "remarks": "Family emergency"
+  },
+  {
+    "id": 14,
+    "studentId": "260003",
+    "date": "2026-03-05",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": 15,
+    "studentId": "260005",
+    "date": "2026-03-05",
+    "status": "Absent",
+    "remarks": ""
+  }
+]
