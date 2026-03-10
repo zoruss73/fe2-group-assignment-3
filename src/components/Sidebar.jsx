@@ -107,7 +107,7 @@ export default function Sidebar() {
         {/* Bottom section */}
         <div className="px-3 py-4 border-t border-slate-800">
           <button
-            onClick={() => { navigate("/"); setMobileOpen(false); }}
+            onClick={() => { localStorage.removeItem("loggedInUser"); navigate("/"); setMobileOpen(false); }}
             className={`flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-medium text-slate-400 hover:text-red-400 hover:bg-red-500/10 transition-all duration-200 cursor-pointer ${
               collapsed ? "justify-center" : ""
             }`}
