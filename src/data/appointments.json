@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "studentId": "260001",
+    "date": "2026-03-10",
+    "time": "09:00",
+    "purpose": "Academic Advising",
+    "status": "Confirmed",
+    "remarks": ""
+  },
+  {
+    "id": 2,
+    "studentId": "260003",
+    "date": "2026-03-10",
+    "time": "10:30",
+    "purpose": "Enrollment Concern",
+    "status": "Pending",
+    "remarks": "Needs to discuss subject overload"
+  },
+  {
+    "id": 3,
+    "studentId": "260005",
+    "date": "2026-03-11",
+    "time": "13:00",
+    "purpose": "Counseling",
+    "status": "Confirmed",
+    "remarks": ""
+  },
+  {
+    "id": 4,
+    "studentId": "260002",
+    "date": "2026-03-11",
+    "time": "14:30",
+    "purpose": "Document Request",
+    "status": "Completed",
+    "remarks": "Picked up transcript"
+  },
+  {
+    "id": 5,
+    "studentId": "260007",
+    "date": "2026-03-12",
+    "time": "08:30",
+    "purpose": "Academic Advising",
+    "status": "Cancelled",
+    "remarks": "Student did not show up"
+  },
+  {
+    "id": 6,
+    "studentId": "260004",
+    "date": "2026-03-12",
+    "time": "11:00",
+    "purpose": "Counseling",
+    "status": "Pending",
+    "remarks": ""
+  },
+  {
+    "id": 7,
+    "studentId": "260009",
+    "date": "2026-03-13",
+    "time": "09:30",
+    "purpose": "Enrollment Concern",
+    "status": "Confirmed",
+    "remarks": "Shifting to another course"
+  },
+  {
+    "id": 8,
+    "studentId": "260006",
+    "date": "2026-03-13",
+    "time": "15:00",
+    "purpose": "Document Request",
+    "status": "Pending",
+    "remarks": "Certificate of enrollment"
+  },
+  {
+    "id": 9,
+    "studentId": "260010",
+    "date": "2026-03-14",
+    "time": "10:00",
+    "purpose": "Academic Advising",
+    "status": "Confirmed",
+    "remarks": ""
+  },
+  {
+    "id": 10,
+    "studentId": "260008",
+    "date": "2026-03-14",
+    "time": "13:30",
+    "purpose": "Counseling",
+    "status": "Completed",
+    "remarks": "Follow-up session done"
+  }
+]
